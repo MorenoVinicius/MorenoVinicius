@@ -8,7 +8,7 @@
 
 📫 How to reach me viniciusmoreno.98@gmail.com
 
-## 🚀  Skills
+##   Skills ❄
 
 
 
@@ -18,7 +18,7 @@
 <code><img heigth="32" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></code>
 <code><img heigh="32" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/></code>
 
-## Statistics
+##   Statistics 📊
 
 
 
