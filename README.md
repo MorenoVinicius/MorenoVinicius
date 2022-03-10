@@ -18,10 +18,7 @@
 <code><img heigth="32" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></code>
 
 #Estatísticas
-
-<a href="https://github.com/MorenoVinicius">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MorenoVinicius=dracula&hide_langs_below=1" />
-</a>
+[![MorenoVinicius](https://github-readme-stats.vercel.app/api/top-langs/?username=MorenoVinicius&hide=html&layout=compact=true&theme=default)](https://github.com/MorenoVinicius/)
 
 <!---
 MorenoVinicius/MorenoVinicius is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
