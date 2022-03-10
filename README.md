@@ -18,6 +18,9 @@
 <code><img heigth="32" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></code>
 
 #Estatísticas
+
+
+
 [![MorenoVinicius](https://github-readme-stats.vercel.app/api/top-langs/?username=MorenoVinicius&hide=html&layout=compact=true&theme=default)](https://github.com/MorenoVinicius/)
 
 <!---
