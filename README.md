@@ -22,7 +22,7 @@
 
 
 
-[![MorenoVinicius](https://github-readme-stats.vercel.app/api/top-langs/?username=MorenoVinicius&hide=html&layout=compact=true&theme=default)](https://github.com/MorenoVinicius/)
+[![MorenoVinicius](https://github-readme-stats.vercel.app/api/top-langs/?username=MorenoVinicius&hide=html&layout=compact=true&theme=dark)](https://github.com/MorenoVinicius/)
 
 <!---
 MorenoVinicius/MorenoVinicius is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
