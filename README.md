@@ -1,4 +1,4 @@
-<img width="180" src="https://media4.giphy.com/media/lJNoBCvQYp7nq/giphy.gif?cid=ecf05e47z1yi6w8f5nh75hfmvq2wcqzkw5ocksvd3ynnxuv7&rid=giphy.gif&ct=g"/>
+
 
 👋 Hi, I’m Vini Moreno         
 
@@ -24,7 +24,7 @@
 
 
 
-[![MorenoVinicius](https://github-readme-stats.vercel.app/api/top-langs/?username=MorenoVinicius&hide=html&layout=compact=true&theme=dark)](https://github.com/MorenoVinicius/)
+[![MorenoVinicius](https://github-readme-stats.vercel.app/api/top-langs/?username=MorenoVinicius&hide=html&layout=compact=true&theme=dark)](https://github.com/MorenoVinicius/) 
 
 <!---
 MorenoVinicius/MorenoVinicius is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
