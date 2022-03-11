@@ -1,4 +1,6 @@
-👋 Hi, I’m Vini Moreno
+<img width="180" src="https://media4.giphy.com/media/lJNoBCvQYp7nq/giphy.gif?cid=ecf05e47z1yi6w8f5nh75hfmvq2wcqzkw5ocksvd3ynnxuv7&rid=giphy.gif&ct=g"/>
+
+👋 Hi, I’m Vini Moreno         
 
 👀 I’m interested in learning new skills, watch anime, read manga and playing of league of legends
 
