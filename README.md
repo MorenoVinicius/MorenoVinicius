@@ -1,8 +1,11 @@
 
 
+  <img width="250cm" margin="20px" align="Right" src="https://media1.giphy.com/media/tPUxERolZBYY0/giphy.gif?cid=790b76114536700e49b8820dbebedaf0c2b50938162d7468&rid=giphy.gif&ct=g"/>
+
+
 👋 Hi, I’m Vini Moreno         
 
-👀 I’m interested in learning new skills, watch anime, read manga and playing of league of legends
+👀 I’m interested in learning new skills, watch anime and read manga.
 
 🛴 I’m currently learning Analysis and systems development at FECAF
 
