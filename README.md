@@ -11,7 +11,8 @@
 
 🌪 I’m looking to collaborate on projects for beginners in order to receive knowledge
 
-📫 How to reach me viniciusmoreno.98@gmail.com
+📫 How to reach me dev.viniciusm@gmail.com
+
 
 ##   Skills 
 
